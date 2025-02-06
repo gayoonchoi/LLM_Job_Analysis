@@ -1,1 +1,1 @@
-# job_analysis_llm
+# LLM 기반 채용 공고 분석 서비스 
